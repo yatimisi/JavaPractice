@@ -1,18 +1,20 @@
   /*
-   * §Úªº²Ä¤@­ÓJavaµ{¦¡
+   * æˆ‘çš„ç¬¬ä¸€å€‹Javaç¨‹å¼
    */
-import java.util.Scanner;	//import ScannerÃş§O®M¥ó
+  import java.util.Scanner;	//import Scanneré¡åˆ¥å¥—ä»¶
 
-/** ³o¬O¥DÃş§O Hi */
-public class Hi {
-	
-	/**³o¬Oµ{¦¡¶i¤JÂI main ¤èªk*/
-	public static void main(String[] args) {
-		Scanner scn=new Scanner(System.in);	/*«Ø¥ß Scanner ª«¥ó scn*/
-		System.out.print("½Ğ¿é¤J©m¦W¡G");
-		String strName = scn.next();	//¦r¦êÅÜ¼ÆstrNameÀx¦sscn±µ¨üªº¦r¦ê
-		System.out.println("Hi! "+strName + ", Åwªï¨Ó¨ìJava¥@¬É¡I");
-		scn.close();	//Ãö³¬scnª«¥ó
-	}
-
-}
+  /** é€™æ˜¯ä¸»é¡åˆ¥ Hi */
+  public class Hi {
+	  
+	  /**é€™æ˜¯ç¨‹å¼é€²å…¥é» main æ–¹æ³•*/
+	  public static void main(String[] args) {
+		  Scanner scn=new Scanner(System.in);	/*å»ºç«‹ Scanner ç‰©ä»¶ scn*/
+		  System.out.print("è«‹è¼¸å…¥å§“åï¼š");
+		  String strName = scn.next();	//å­—ä¸²è®Šæ•¸strNameå„²å­˜scnæ¥å—çš„å­—ä¸²
+		  System.out.println("Hi! "+strName + ", æ­¡è¿ä¾†åˆ°Javaä¸–ç•Œï¼");
+		  scn.close();	//é—œé–‰scnç‰©ä»¶
+	  }
+  
+  }
+  
+  

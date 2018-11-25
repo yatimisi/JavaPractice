@@ -1,11 +1,10 @@
-
 public class Ex02_01 {
 
 	public static void main(String[] args) {
-		System.out.println("  ¤Q¶i¨î 10¡G" + 10);	//¤Q¶i¨î
-		System.out.println("  ¤G¶i¨î 10¡G" + 0b10);//¤G¶i¨î
-		System.out.println("  ¤K¶i¨î 10¡G" + 010);	//¤K¶i¨î
-		System.out.println("¤Q¤»¶i¨î 10¡G" + 0x10);//¤Q¤»¶i¨î
+		System.out.println("  åé€²åˆ¶ 10ï¼š" + 10);	//åé€²åˆ¶
+		System.out.println("  äºŒé€²åˆ¶ 10ï¼š" + 0b10);//äºŒé€²åˆ¶
+		System.out.println("  å…«é€²åˆ¶ 10ï¼š" + 010);	//å…«é€²åˆ¶
+		System.out.println("åå…­é€²åˆ¶ 10ï¼š" + 0x10);//åå…­é€²åˆ¶
 	}
 
 }

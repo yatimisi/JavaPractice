@@ -1,2 +1,2 @@
 # JavaPractice
-NTUB的Java課程練習
+NTUB的Java課程練習練習
